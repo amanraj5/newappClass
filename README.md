@@ -1,3 +1,4 @@
+This is a simple news app created by using class based components in react. You can go through this app if you want headlines at one place.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
